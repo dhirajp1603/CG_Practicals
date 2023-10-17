@@ -1,3 +1,8 @@
+//Written By Dhirajkumar Pachling
+
+/* Write C++ program to implement Cohen Southerland line clipping algorithm. */
+
+//CODE
 #include<iostream>
 #include<stdlib.h> 
 #include<math.h>
