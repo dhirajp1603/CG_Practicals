@@ -1,3 +1,8 @@
+//Written By Dhirajkumar Pachling
+/* Write C++ program to generate fractal patterns by using Koch curves */
+
+//CODE
+
 #include <iostream>
 #include <math.h>
 #include <graphics.h>
