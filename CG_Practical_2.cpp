@@ -1,5 +1,5 @@
 #include<iostream>
-#include<stdlib.h>
+#include<stdlib.h> 
 #include<math.h>
 #include<graphics.h>
 #include<dos.h>
